@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Forbu
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - forbu/deepcodecorrection 
+  - forbu/D3PM_replication  
+  - forbu/loilibre_ui  
+  - forbu/gnn_clrs_benchmark 
+  - forbu/time_series_diffusion   
+  - pytorch/rl
+  - Lightning-AI/pytorch-lightning
+  - streamlit/streamlit
+  - huggingface/transformers
